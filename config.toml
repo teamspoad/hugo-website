@@ -1,7 +1,7 @@
-title = "Notre-Dame de Paris"
-baseURL = "/hugo-website"
+title = "ESC Legal Documents"
+baseURL = "/MainPage"
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
+theme = "ESC"
 themesDir = "themes"
 
 MetaDataFormat = "yaml"
